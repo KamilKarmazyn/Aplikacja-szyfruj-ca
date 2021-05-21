@@ -1,0 +1,42 @@
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\bin\Debug\Proseminarium1.exe.config
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\bin\Debug\Proseminarium1.exe
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\bin\Debug\Proseminarium1.pdb
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.csprojAssemblyReference.cache
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.Form1.resources
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.Properties.Resources.resources
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.csproj.GenerateResource.cache
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.csproj.CoreCompileInputs.cache
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.exe
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.pdb
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\Proseminarium1\bin\Debug\Proseminarium1.exe.config
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\Proseminarium1\bin\Debug\Proseminarium1.exe
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\Proseminarium1\bin\Debug\Proseminarium1.pdb
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.csprojAssemblyReference.cache
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.Form1.resources
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.Properties.Resources.resources
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.csproj.GenerateResource.cache
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.csproj.CoreCompileInputs.cache
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.exe
+C:\Users\MSI GAMING\source\repos\Proseminarium1\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.pdb
+D:\Nauka\Środa\Proseminarium - 8-10\Proseminarium1\Proseminarium1\Proseminarium1\Proseminarium1\bin\Debug\Proseminarium1.exe.config
+D:\Nauka\Środa\Proseminarium - 8-10\Proseminarium1\Proseminarium1\Proseminarium1\Proseminarium1\bin\Debug\Proseminarium1.exe
+D:\Nauka\Środa\Proseminarium - 8-10\Proseminarium1\Proseminarium1\Proseminarium1\Proseminarium1\bin\Debug\Proseminarium1.pdb
+D:\Nauka\Środa\Proseminarium - 8-10\Proseminarium1\Proseminarium1\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.csprojAssemblyReference.cache
+D:\Nauka\Środa\Proseminarium - 8-10\Proseminarium1\Proseminarium1\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.Form1.resources
+D:\Nauka\Środa\Proseminarium - 8-10\Proseminarium1\Proseminarium1\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.Properties.Resources.resources
+D:\Nauka\Środa\Proseminarium - 8-10\Proseminarium1\Proseminarium1\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.csproj.GenerateResource.cache
+D:\Nauka\Środa\Proseminarium - 8-10\Proseminarium1\Proseminarium1\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.csproj.CoreCompileInputs.cache
+D:\Nauka\Środa\Proseminarium - 8-10\Proseminarium1\Proseminarium1\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.exe
+D:\Nauka\Środa\Proseminarium - 8-10\Proseminarium1\Proseminarium1\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.pdb
+D:\Nauka\Środa\Proseminarium - 8-10\Proseminarium1\Proseminarium1\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.komponenty.Kłódkazamk.resources
+D:\Nauka\Środa\final\Proseminarium1\Proseminarium1\bin\Debug\Proseminarium1.exe.config
+D:\Nauka\Środa\final\Proseminarium1\Proseminarium1\bin\Debug\Proseminarium1.exe
+D:\Nauka\Środa\final\Proseminarium1\Proseminarium1\bin\Debug\Proseminarium1.pdb
+D:\Nauka\Środa\final\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.csprojAssemblyReference.cache
+D:\Nauka\Środa\final\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.Form1.resources
+D:\Nauka\Środa\final\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.komponenty.Kłódkazamk.resources
+D:\Nauka\Środa\final\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.Properties.Resources.resources
+D:\Nauka\Środa\final\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.csproj.GenerateResource.cache
+D:\Nauka\Środa\final\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.csproj.CoreCompileInputs.cache
+D:\Nauka\Środa\final\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.exe
+D:\Nauka\Środa\final\Proseminarium1\Proseminarium1\obj\Debug\Proseminarium1.pdb
