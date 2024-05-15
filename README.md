@@ -1,1 +1,1 @@
-# Aplikacja szyfrujca
+# Aplikacja szyfrujaca
